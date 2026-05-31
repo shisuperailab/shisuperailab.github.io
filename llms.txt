@@ -1,0 +1,35 @@
+# Shi Group
+
+Shi Group is a University of Toledo physics-informed AI method development group led by Jiale Shi. The group develops generative models, language models, AI for science foundation models, graph learning, and physically grounded AI methods for complex polymers, macromolecules, computational materials, soft materials, biomacromolecular systems, and computational biology.
+
+Core topics:
+- AI for complex polymers
+- AI for polymers
+- AI for macromolecules
+- AI for computational materials
+- AI for computational biology
+- Biomacromolecular AI
+- Polymer informatics
+- Macromolecular similarity
+- Language models for polymers and macromolecules
+- Molecular simulation
+- Graph neural networks for molecular and materials systems
+- Generative AI for complex polymer and molecular design
+- AI-accelerated molecular simulation
+
+Research thrusts:
+- Developing Conditional Generative Model for Complex Polymer Design
+- Developing Environment-aware AI Models to Improve Property and Response Prediction for Complex Polymers
+- Developing AI Models to Accelerate and Interpret Complex Polymer Simulation
+- Developing AI Models to Predict Protein/RNA Allosteric Regulation and Ensemble Dynamics
+
+Important pages:
+- Home: https://shijiale0609.github.io/
+- Research: https://shijiale0609.github.io/research.html
+- Publications: https://shijiale0609.github.io/publications.html
+- Team: https://shijiale0609.github.io/people.html
+- Openings: https://shijiale0609.github.io/openings.html
+- Contact: https://shijiale0609.github.io/contact.html
+
+Representative publication:
+- MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network. Macromolecules 2026, 59, 4, 1885-1900. DOI: https://pubs.acs.org/doi/10.1021/acs.macromol.5c03015

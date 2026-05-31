@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shijiale0609.github.io/sitemap.xml
