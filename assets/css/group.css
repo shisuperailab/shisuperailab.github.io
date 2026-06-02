@@ -774,14 +774,7 @@ body.group-site .contact-card a {
 }
 
 .visitor-map {
-	display: none;
-	justify-content: center;
-	margin: 1.25rem auto 0;
-	max-width: 1180px;
-}
-
-.openings-page .visitor-map {
-	display: flex;
+	display: none !important;
 }
 
 @media screen and (max-width: 1100px) {
