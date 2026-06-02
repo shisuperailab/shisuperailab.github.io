@@ -387,6 +387,46 @@ body.group-site .member-info h3 {
 	margin-top: -0.45rem;
 }
 
+.member-awards {
+	margin: 1.15rem 0 0;
+	max-width: 74ch;
+}
+
+body.group-site .member-awards h4 {
+	color: var(--apple-ink);
+	font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+	font-size: 0.98rem;
+	font-weight: 700;
+	letter-spacing: 0;
+	margin: 0 0 0.45rem;
+}
+
+.member-awards ul {
+	color: #3f4652;
+	display: grid;
+	gap: 0.28rem;
+	line-height: 1.45;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.member-awards li {
+	position: relative;
+	padding-left: 1rem;
+}
+
+.member-awards li::before {
+	background: var(--rocket-gold);
+	border-radius: 999px;
+	content: "";
+	height: 0.38rem;
+	left: 0;
+	position: absolute;
+	top: 0.58rem;
+	width: 0.38rem;
+}
+
 .member-links {
 	align-items: center;
 	display: flex;
