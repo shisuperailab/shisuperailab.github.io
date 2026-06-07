@@ -27,6 +27,18 @@ body.group-site {
 	text-rendering: optimizeLegibility;
 }
 
+body.home-page,
+body.news-page {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+body.home-page > main,
+body.news-page > main {
+	flex: 1 0 auto;
+}
+
 body.group-site p,
 body.group-site li {
 	color: var(--apple-ink);
