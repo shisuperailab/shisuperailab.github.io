@@ -39,6 +39,32 @@ body.news-page > main {
 	flex: 1 0 auto;
 }
 
+body.home-page > main {
+	background: var(--rocket-blue-dark);
+	display: flex;
+}
+
+body.home-page .hero {
+	align-items: center;
+	background: var(--rocket-blue-dark);
+	display: flex;
+	flex: 1 0 auto;
+	width: 100%;
+}
+
+body.home-page .hero-grid {
+	background: transparent !important;
+	border: 0 !important;
+	box-shadow: none !important;
+	width: 100%;
+}
+
+body.home-page .hero-grid > div {
+	background: transparent !important;
+	border: 0 !important;
+	box-shadow: none !important;
+}
+
 body.group-site p,
 body.group-site li {
 	color: var(--apple-ink);
