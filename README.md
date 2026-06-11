@@ -5,5 +5,3 @@ This repository contains the website for the Shi Group, the AI-driven Polymer an
 Website: https://shisuperailab.github.io/
 
 Visitor analytics: [MapMyVisitors](https://mapmyvisitors.com/map.js?d=vKuaNiWToryA8pTzZ8L4PdNa2tr_uIH7ewEnKQZ3e3U&cl=ffffff&w=a)
-
-https://mapmyvisitors.com/web/1bvcg
