@@ -612,6 +612,18 @@ body.group-site .member-awards h4 {
 	margin-bottom: 0;
 }
 
+.openings-page .page-intro,
+.openings-page .card p:not(.card-label) {
+	text-align: justify;
+	text-align-last: left;
+}
+
+.research-page .page-intro,
+.research-page .research-grid .card p:not(.card-label) {
+	text-align: justify;
+	text-align-last: left;
+}
+
 .card-label {
 	color: var(--teal);
 	font-size: 0.74rem;
