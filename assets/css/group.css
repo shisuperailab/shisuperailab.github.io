@@ -465,6 +465,27 @@ body.group-site .member-awards h4 {
 	width: 0.38rem;
 }
 
+.member-personal-link {
+	margin: 1.15rem 0 0;
+}
+
+.member-personal-link a {
+	border: 1px solid rgba(4, 72, 136, 0.22);
+	border-radius: 6px;
+	color: var(--rocket-blue) !important;
+	display: inline-flex;
+	font-size: 0.88rem;
+	font-weight: 650;
+	padding: 0.45rem 0.85rem;
+	text-decoration: none;
+}
+
+.member-personal-link a:hover {
+	background: var(--rocket-blue);
+	border-color: var(--rocket-blue);
+	color: var(--white) !important;
+}
+
 .member-links {
 	align-items: center;
 	display: flex;
