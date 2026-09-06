@@ -46,6 +46,7 @@ body.news-page {
 body.home-page > main {
 	background: var(--rocket-blue-dark);
 	display: flex;
+	flex-direction: column;
 }
 
 body.home-page .hero {
@@ -54,6 +55,13 @@ body.home-page .hero {
 	display: flex;
 	flex: 1 0 auto;
 	width: 100%;
+}
+
+body.home-page .campus-photo {
+	display: block;
+	width: 100%;
+	height: auto;
+	flex: 0 0 auto;
 }
 
 body.home-page .hero-grid {
@@ -209,6 +217,14 @@ body.group-site .hero h1 {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 900px;
+}
+
+body.group-site .hero-subtitle-line {
+	display: inline-block;
+	font-size: 0.72em;
+	font-weight: 600;
+	line-height: 1.2;
+	margin-top: 0.25rem;
 }
 
 .hero-kicker {
