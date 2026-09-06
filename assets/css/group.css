@@ -60,6 +60,8 @@ body.home-page .hero {
 body.home-page .campus-photo {
 	display: block;
 	width: 100%;
+	max-width: 1180px;
+	margin: 0 auto;
 	height: auto;
 	flex: 0 0 auto;
 }
