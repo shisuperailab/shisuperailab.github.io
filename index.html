@@ -73,6 +73,7 @@
 		</script>
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/css/group.css" />
+		<link rel="stylesheet" href="assets/css/home.css" />
 	</head>
 	<body class="group-site home-page is-preload">
 		<header class="site-header">
@@ -94,18 +95,78 @@
 		</header>
 
 		<main>
-			<img class="campus-photo" src="images/utoledo-campus-entrance.jpg" alt="University of Toledo entrance sign and campus buildings" width="1592" height="683" />
+			<section class="home-intro" aria-labelledby="home-title">
+				<div class="home-container">
+					<p class="home-affiliation">University of Toledo</p>
+					<h1 id="home-title">The Shi Group</h1>
+					<p class="home-tagline">AI-driven Polymer and Biomacromolecule Modeling and Design</p>
+					<div class="home-actions">
+						<a class="home-join" href="openings.html">Join the group</a>
+						<a href="research.html">Explore research <span aria-hidden="true">&rarr;</span></a>
+					</div>
+					<img class="home-research-image" src="images/ai-macromolecules-robot.png" alt="A robot surrounded by protein, RNA, lipid, and polymer structures" width="1254" height="1254" />
+				</div>
+			</section>
 
-			<section class="hero">
-				<div class="hero-grid">
-					<div>
-						<h1>The Shi Group @ U Toledo<br /><span class="hero-subtitle-line">AI-driven Polymer and Biomacromolecule Modeling and Design</span></h1>
-						<div class="hero-actions">
-							<a class="button-primary" href="openings.html">Join the group</a>
-							<a class="button-secondary" href="research.html">Explore research</a>
-						</div>
+			<section class="home-band" aria-labelledby="home-news-title">
+				<div class="home-container home-section-layout">
+					<div class="home-section-heading">
+						<h2 id="home-news-title">Latest News</h2>
+						<a href="news.html">All news <span aria-hidden="true">&rarr;</span></a>
+					</div>
+					<div class="home-feed">
+						<article class="home-entry">
+							<time datetime="2026-09-12">September 12, 2026</time>
+							<h3><a href="news.html">Protein dynamics at the SCBA-Ohio Symposium</a></h3>
+							<p>Prof. Jiale Shi gave a talk titled &ldquo;Measuring Differences in Protein Allosteric Graphs via Molecular Dynamics Simulations, Graph Theory, and AI&rdquo; at the 2nd SCBA-Ohio Chapter Annual Scientific Symposium.</p>
+						</article>
+						<article class="home-entry">
+							<time datetime="2026-08-24">August 24, 2026</time>
+							<h3><a href="images/AI_lightning_Talks_2026.png" target="_blank" rel="noopener">UToledo AI Lightning Talks</a></h3>
+							<p>Prof. Jiale Shi was scheduled to give a talk at UToledo AI Lightning Talks, hosted by the Department of Electrical Engineering and Computer Science and the Office of Research and Sponsored Programs.</p>
+						</article>
+						<article class="home-entry">
+							<time datetime="2026-08-24">August 24, 2026</time>
+							<h3><a href="https://www.utoledo.edu/engineering/chemical-engineering/facultystaff/jiale-shi/" target="_blank" rel="noopener">The Shi Group joins UToledo</a></h3>
+							<p>Prof. Jiale Shi officially joined the University of Toledo Department of Chemical Engineering as a tenure-track assistant professor.</p>
+						</article>
 					</div>
 				</div>
+			</section>
+
+			<section class="home-band home-band-muted" aria-labelledby="home-papers-title">
+				<div class="home-container home-section-layout">
+					<div class="home-section-heading">
+						<h2 id="home-papers-title">Selected Publications</h2>
+						<a href="publications.html">All publications <span aria-hidden="true">&rarr;</span></a>
+					</div>
+					<div class="home-feed">
+						<article class="home-entry">
+							<p class="home-paper-meta">J. Chem. Theory Comput. &middot; 2026</p>
+							<h3><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00082">Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations</a></h3>
+							<p><strong>Jiale Shi</strong>, Zhongyi Wan, Renjie Zhu, Qiang Cui.<br />2026, 22, 12, 6180&ndash;6195.</p>
+							<div class="home-paper-links">
+								<a href="Publication/measuring-differences-in-protein-allosteric-graphs-constructed-via-molecular-dynamics-simulations.pdf">PDF</a>
+								<a href="https://github.com/shijiale0609/Distance_Protein_Dynamics">Code</a>
+							</div>
+						</article>
+						<article class="home-entry">
+							<p class="home-paper-meta">Macromolecules &middot; 2026</p>
+							<h3><a href="https://pubs.acs.org/doi/10.1021/acs.macromol.5c03015">MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network</a></h3>
+							<p><strong>Jiale Shi</strong>, Runzhong Wang, Nathan J. Rebello, Jiarui Lu, Debra J. Audus, Bradley D. Olsen.<br />2026, 59, 4, 1885&ndash;1900.</p>
+							<div class="home-paper-links">
+								<a href="Publication/macrosimgnn-efficient-and-accurate-prediction-of-macromolecule-pairwise-similarity-via-a-graph-neural-network.pdf">PDF</a>
+								<a href="https://github.com/shijiale0609/MacroSimGNN">Code</a>
+							</div>
+						</article>
+					</div>
+				</div>
+			</section>
+
+			<section class="home-team home-container" aria-labelledby="home-team-title">
+				<h2 id="home-team-title">Meet the Shi Group</h2>
+				<p>Physics-informed AI for polymers and biomacromolecules at the University of Toledo.</p>
+				<a href="people.html">Meet the team <span aria-hidden="true">&rarr;</span></a>
 			</section>
 		</main>
 
