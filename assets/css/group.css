@@ -661,6 +661,28 @@ body.group-site .member-awards h4 {
 	text-align-last: left;
 }
 
+.openings-page .applicant-note {
+	border-top: 1px solid rgba(0, 0, 0, 0.12);
+	margin-top: 1.5rem;
+	padding-top: 1rem;
+}
+
+.openings-page .applicant-note summary {
+	cursor: pointer;
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 1.5;
+}
+
+.openings-page .applicant-note summary:focus-visible {
+	outline: 2px solid var(--teal);
+	outline-offset: 4px;
+}
+
+.openings-page .applicant-note[open] summary {
+	margin-bottom: 1rem;
+}
+
 .research-page .page-intro,
 .research-page .research-grid .card p:not(.card-label) {
 	text-align: justify;
