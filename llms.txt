@@ -1,35 +1,35 @@
-# Shi Group
+# Shi Group at the University of Toledo
 
-Shi Group is a University of Toledo physics-informed AI method development group led by Jiale Shi. The group develops generative models, language models, AI for science foundation models, graph learning, and physically grounded AI methods for complex polymers, macromolecules, computational materials, soft materials, biomacromolecular systems, and computational biology.
+> Physics-informed AI for Polymer and Biomacromolecule Modeling and Design.
 
-Core topics:
-- AI for complex polymers
-- AI for polymers
-- AI for macromolecules
-- AI for computational materials
-- AI for computational biology
-- Biomacromolecular AI
-- Polymer informatics
-- Macromolecular similarity
-- Language models for polymers and macromolecules
-- Molecular simulation
-- Graph neural networks for molecular and materials systems
-- Generative AI for complex polymer and molecular design
-- AI-accelerated molecular simulation
+The Shi Group is led by Jiale Shi, Assistant Professor in the Department of Chemical Engineering at the University of Toledo in Toledo, Ohio, USA. We are a fully computational (dry) lab developing AI methods, including generative models, language models, AI for science foundation models, and graph learning. Experimental work and validation are carried out by collaborators outside the group, including the UToledo Polymer Institute.
 
-Research thrusts:
-- Developing Conditional Generative Model for Complex Polymer Design
-- Developing Environment-aware AI Models to Improve Property and Response Prediction for Complex Polymers
-- Developing AI Models to Accelerate and Interpret Complex Polymer Simulation
-- Developing AI Models to Predict Protein/RNA Allosteric Regulation and Ensemble Dynamics
+## Website
 
-Important pages:
-- Home: https://shijiale0609.github.io/
-- Research: https://shijiale0609.github.io/research.html
-- Publications: https://shijiale0609.github.io/publications.html
-- Team: https://shijiale0609.github.io/people.html
-- Openings: https://shijiale0609.github.io/openings.html
-- Contact: https://shijiale0609.github.io/contact.html
+- [Home](https://shisuperailab.github.io/): Group overview and recent updates.
+- [Research](https://shisuperailab.github.io/research.html): Four research thrusts, applications, and experimental collaborators.
+- [Publications](https://shisuperailab.github.io/publications.html): Published and accepted papers with publisher, preprint, PDF, and code links where available.
+- [Team](https://shisuperailab.github.io/people.html): Jiale Shi's biography and current group members.
+- [Openings](https://shisuperailab.github.io/openings.html): Current Ph.D. and undergraduate opportunities, funding information, and application guidance. Consult this page for current availability.
+- [News](https://shisuperailab.github.io/news.html): Dated group updates.
+- [Contact](https://shisuperailab.github.io/contact.html): jiale.shi@utoledo.edu; Nitschke Hall, Room 3056; telephone 419.530.3914.
 
-Representative publication:
-- MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network. Macromolecules 2026, 59, 4, 1885-1900. DOI: https://pubs.acs.org/doi/10.1021/acs.macromol.5c03015
+## Research
+
+- Conditional generative models for complex polymer design.
+- Environment-aware AI models for complex polymer property and response prediction.
+- AI models to accelerate and interpret complex polymer simulation.
+- Physics-informed AI for biomacromolecules, combining polymer physics and statistical physics to understand and design proteins, RNA, and lipid nanoparticles (LNPs).
+
+Application interests include semiconductors, healthcare, sustainability, energy, and gas separation.
+
+## Representative publications and code
+
+- [Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations](https://doi.org/10.1021/acs.jctc.6c00082): Jiale Shi, Zhongyi Wan, Renjie Zhu, Qiang Cui. J. Chem. Theory Comput. 2026, 22, 12, 6180-6195. [Code](https://github.com/shijiale0609/Distance_Protein_Dynamics).
+- [MacroSimGNN: Efficient and Accurate Calculation of Macromolecule Pairwise Similarity via Graph Neural Network](https://doi.org/10.1021/acs.macromol.5c03015): Jiale Shi, Runzhong Wang, Nathan J. Rebello, Jiarui Lu, Debra J. Audus, Bradley D. Olsen. Macromolecules 2026, 59, 4, 1885-1900. [Code](https://github.com/shijiale0609/MacroSimGNN).
+
+## PI profiles
+
+- [Official UToledo faculty profile](https://www.utoledo.edu/engineering/chemical-engineering/facultystaff/jiale-shi/)
+- [Jiale Shi's personal website](https://shijiale0609.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=OcHqFFMAAAAJ&hl=en)
