@@ -938,6 +938,22 @@ body.group-site .section-inner > h2 {
 	margin: 2.5rem 0 1rem;
 }
 
+.research-page .section[aria-labelledby="research-computing-title"] {
+	padding-bottom: 0;
+}
+
+.research-page .section[aria-labelledby="research-computing-title"] p:last-child {
+	margin-bottom: 0;
+}
+
+.research-page .section[aria-labelledby="experimental-collaborators"] {
+	padding-top: 32px;
+}
+
+body.research-page #experimental-collaborators {
+	margin-top: 0;
+}
+
 .pub-note {
 	color: var(--apple-muted);
 	font-size: 0.92rem;
